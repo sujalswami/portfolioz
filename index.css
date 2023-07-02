@@ -1,0 +1,79 @@
+body {
+    font-family: sans-serif;
+    background: url(https://cdn.pixabay.com/photo/2017/08/02/14/26/winter-landscape-2571788_960_720.jpg);
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #4689a3;
+    
+  
+
+    color: #e1dbb9;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  nav {
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  nav a {
+    color: #000;
+    padding: 10px;
+    text-decoration: none;
+  }
+  
+  main {
+    margin-top: 20px;
+  }
+  
+  section {
+    padding: 20px;
+  }
+  
+  h1, h2, h3 {
+    color: #000;
+    font-weight: bold;
+  }
+  
+  p {
+    margin-bottom: 10px;
+  }
+  
+  a {
+    color: #000;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  footer {
+    background-color: #4689a3;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+  }
+  .manav-image{
+    float: right;
+    margin-left: 10px;
+    margin-right: 40px;
+    width: 350px;
+    height: 150px;
+    
+}
+.manav1-image{
+  float: right;
+  margin-left: 10px;
+  margin-right: 40px;
+  width: 500px;
+  height: 150px;
+  
+}
